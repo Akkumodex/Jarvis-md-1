@@ -45,7 +45,7 @@
             "value":"."
         },
         "SESSION_ID": {
-            "description": "session id",
+            "description": "Jarvis_3351_54eb_d8c3_58ab_2fc7_e24d_019e_54cd",
             "required": true
         },
         "WORK_TYPE": {
@@ -69,7 +69,7 @@
         "SUDO": {
             "description": "owner number of the bot",
             "required": false,
-            "value":"41782221168"
+            "value":"916282524936"
         }
     },
       "addons": [{
